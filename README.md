@@ -47,27 +47,37 @@ This data is about the customers as well as the products sold in the Superstore.
 
 ### 1. Analysis Customer
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](./images/top-5-customer-A)
 
 From the data, there are 5 customers with the highest purchase frequency, where William Brown customers recorded the most transactions with a total of 37 purchases. This analysis provides insight into the customers who frequently shop at this retail store and there are 5 customers with the highest total transaction value, with customer Sean Miller recording the highest purchase amount of $25,043.
 
 ### 2. Cohort Analysis
 
+![App Screenshot](./images/cohort-analysis)
+
 The graph above shows the predicted Retention Rate for each upcoming quarter. The highest cohort percentage is in the 4th quarter, with 77.78%. This shows that cohort analysis can help identify customers who have the potential to repurchase or not.
 
 ### 3. Trend Retention Rate
+
+![App Screenshot](./images/retention-line)
 
 The graph above shows an upward trend until the 15th quarter, with retention reaching 54.5%. This indicates that there are factors that encourage customers to make repeat purchases every quarter, or it could also indicate that these customers are very loyal and qualified.
 
 
 ### 4. RFM Analysis
 
+![App Screenshot](./images/RFM-Analysis)
+
 The bar graph above shows the number of customers with a certain combination of RFM (Recency, Frequency, and Monetary) scores. For example, customers with a score of R=1, F=5, M=5 perform well, shop frequently, and make high value purchases. In contrast, customers with a score of R=5, F=1, M=1 rarely shop and spend little money.
 
 ### 5.CLV Analysis
 
+![App Screenshot](./images/CLV-analysis)
+
 The percentage table above shows that the profit from each customer purchase will continue to grow as they become customers. It can be seen that customers who have been with the company for a longer period of time have a higher profit value. For example, in the first quarter of 2014, an early customer made a profit of $615, while by the 15th quarter, after several purchases, the customer's profit had only dropped to $3,353.
 
 ## Superstore Dashboard
+
+![App Screenshot](./images/dashboard)
 
 https://public.tableau.com/app/profile/nofita.nur.aini/viz/SuperstoresAnalysis_17288841906630/COHORT?publish=yes
